@@ -1,0 +1,36 @@
+DEBUG:root:rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 0
+DEBUG:root:has considered en passant : False
+DEBUG:root:Nc3
+DEBUG:root:castling rights : ((True, True), (True, True))
+DEBUG:root:kings position : [(7, 4), (0, 4)]
+DEBUG:root:rnbqkbnr/pppppppp/8/8/8/2N5/PPPPPPPP/R1BQKBNR b KQkq - 1 1
+DEBUG:root:rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 0
+DEBUG:root:has considered en passant : True
+DEBUG:root:Nc3
+DEBUG:root:castling rights : ((True, True), (True, True))
+DEBUG:root:kings position : [(7, 4), (0, 4)]
+DEBUG:root:rnbqkbnr/pppppppp/8/8/8/2N5/PPPPPPPP/R1BQKBNR b KQkq - 1 1
+DEBUG:root:rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 0
+DEBUG:root:has considered en passant : False
+DEBUG:root:Nf3
+DEBUG:root:castling rights : ((True, True), (True, True))
+DEBUG:root:kings position : [(7, 4), (0, 4)]
+DEBUG:root:rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1
+DEBUG:root:rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 0
+DEBUG:root:has considered en passant : True
+DEBUG:root:Nc3
+DEBUG:root:castling rights : ((True, True), (True, True))
+DEBUG:root:kings position : [(7, 4), (0, 4)]
+DEBUG:root:rnbqkbnr/pppppppp/8/8/8/2N5/PPPPPPPP/R1BQKBNR b KQkq - 1 1
+DEBUG:root:rnbq1k1r/pp1Pbppp/2p5/8/2B5/8/PPP1NnPP/RNBQK2R w KQ - 1 0
+DEBUG:root:has considered en passant : False
+DEBUG:root:dxc8=Q
+DEBUG:root:castling rights : ((True, False), (True, False))
+DEBUG:root:kings position : [(7, 4), (0, 5)]
+DEBUG:root:rnQq1k1r/pp2bppp/2p5/8/2B5/8/PPP1NnPP/RNBQK2R b KQ - 0 1
+DEBUG:root:rnbq1k1r/pp1Pbppp/2p5/8/2B5/8/PPP1NnPP/RNBQK2R w KQ - 1 0
+DEBUG:root:has considered en passant : False
+DEBUG:root:dxc8=Q
+DEBUG:root:castling rights : ((True, False), (True, False))
+DEBUG:root:kings position : [(7, 4), (0, 5)]
+DEBUG:root:rnQq1k1r/pp2bppp/2p5/8/2B5/8/PPP1NnPP/RNBQK2R b KQ - 0 1
